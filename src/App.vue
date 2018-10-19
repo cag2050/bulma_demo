@@ -7,7 +7,18 @@
     <router-view/>
   </div>
 </template>
+
+<script>
+// import 'bulma/css/bulma.css'
+
+export default {
+
+}
+</script>
+
 <style lang="stylus">
+/*@import '~bulma/css/bulma.css'*/
+
 #app
   font-family 'Avenir', Helvetica, Arial, sans-serif
   -webkit-font-smoothing antialiased
